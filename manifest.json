@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "URL Appender",
+    "description": "Appends '/manage' to the current URL",
+    "version": "1.0.0",
+    "permissions": [
+      "activeTab",
+      "tabs" 
+    ],
+    
+    "action": {
+      // "default_popup": "popup.html" // You can remove this if you don't have a popup
+    },
+    
+    "background": {
+      "service_worker": "background.js" 
+    }
+  }
+  
