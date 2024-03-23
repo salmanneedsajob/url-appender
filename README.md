@@ -11,7 +11,7 @@ This extension is perfect for anyone who needs to frequently access specific sec
 1. **Download:** Download the source code of this extension (either as a ZIP file or by cloning the repository). 
 2. **Edit `background.js`:** 
    * Find the line `newURL += 'wp-admin';`
-   * Replace `/wp-admin` with the text you want to append (e.g., `/wp-admin`).
+   * Replace `/wp-admin` with the text you want to append.
 3. **Load in Chrome:**
    * Go to `chrome://extensions` in your Chrome browser.
    * Enable "Developer mode" in the top right corner.
