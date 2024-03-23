@@ -9,7 +9,7 @@
     ],
     
     "action": {
-      // "default_popup": "popup.html" // You can remove this if you don't have a popup
+      // "default_popup": "popup.html" // Use this if you have a popup for the extension
     },
     
     "background": {
